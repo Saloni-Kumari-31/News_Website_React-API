@@ -12,8 +12,6 @@ There are 8 sections in this website Home,General,Business,Entertainment,Health,
 
 ![Screenshot 2023-06-11 233012](https://github.com/Saloni-Kumari-31/News_Website_React-API/assets/76212467/5da922a7-355b-45cc-b7f5-3163fec08bff)
 
-![Screenshot 2023-06-11 232952](https://github.com/Saloni-Kumari-31/News_Website_React-API/assets/76212467/10a5efc2-be48-4f68-8d62-4121219c388
-
 ![Screenshot 2023-06-11 232931](https://github.com/Saloni-Kumari-31/News_Website_React-API/assets/76212467/31aab719-d2b3-46b0-9a3d-a306ef39311e)
 3)
 
